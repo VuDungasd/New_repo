@@ -1,2 +1,2 @@
 Bai tap git
-Cap nhat trong nhanh main
+Cap nhat trong nhanh update-readme
